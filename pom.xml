@@ -43,13 +43,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://10.121.205.142:8081/nexus/content/repositories/yoodlex/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://10.121.205.142:8081/nexus/content/repositories/yoodlex/</url>
 	</snapshotRepository>
 
 </distributionManagement>
