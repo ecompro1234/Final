@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="407613a1-69db-4df0-bd14-abb013539228" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DOCS/IMG (1)_32-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOCS/IMG (1)_34-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/views_cluster/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/account/views_cluster/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/ecom/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/ecom/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/ecom/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/ecom/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/css/data-landing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/css/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bolditalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bolditalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bolditalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-bolditalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/gandhiserif-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/fonts/karla-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/beta-fec-fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/beta-fec-tw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/committee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/data/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/general/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/help/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/favicon/legal/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--candidate-support.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--compare-candidates.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--contributions-narrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--contributions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--data.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--dates.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--filing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--forms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--legal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--reporting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/feature--training.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/fec-office.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/financial-document-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/headshot--goodman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/headshot--hunter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/headshot--no-photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/headshot--petersen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/headshot--walther.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/headshot--weintraub.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/activate_phone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/confirm_email.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/confirm_email_msg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/confirm_personal_key.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/create_password.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/enroll.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/incorrect_cmte_details.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/incorrect_email.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/one_time_security_code.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/personal_key.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/help/phone_msg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hero-about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hero-data.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hero-home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hero-legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hero-press.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hero-registration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/hourglass.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-calendar-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--data.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--data.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--legal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--legal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--regreport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-complex--regreport.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-document-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-elections--neutral.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-elections--primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-elections--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-email--inverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-email--inverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-email--primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-email--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-github--inverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-github--inverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-github--primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-github--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-mail--primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-mail--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-overviews--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-phone--primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-phone--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-table--neutral.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-table--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-twitter--primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/i-twitter--primary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/loading--primary.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/loading-ellipsis-gray.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/loading-ellipsis.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/print-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/reaction-confusing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/reaction-informative.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/reaction-not-interested.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/scissors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/seal--cropped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/seal--cropped.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/seal--inverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/seal--inverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/seal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/seal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/social/data.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/social/general.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/social/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/social/legal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--ao-brochure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--ao-statistics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--audio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--candidates.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--captions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--citizens-guide-brochure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--enforcement-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--feca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--filing-a-complaint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--nonconnected.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--orgs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--parties.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--pdf-guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--title26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--title52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/thumbnail--video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/tooltip-point.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/us_flag_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/wordmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/img/wordmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/js/accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/js/candidate-single.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/account/js/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/responsive_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/vendor/select2/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/vendor/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/css/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/fonts/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/fonts/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/calendar-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-addlink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-alert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-changelink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-deletelink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-no.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-unknown-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-unknown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/icon-yes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/inline-delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/selector-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/sorting-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/tooltag-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/img/tooltag-arrowright.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/SelectBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/SelectFilter2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/actions.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/cancel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/change_form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/collapse.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/inlines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/inlines.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/jquery.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/popup_response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/prepopulate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/prepopulate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/prepopulate_init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/timeparse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/urlify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/select2.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/static/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/account/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/account/forget_password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/account/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/account/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/includes/aside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/templates/includes/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/tpath/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ecom_backend/ecom/tpath/tcpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../I-983-Poorna (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POC_ReactJS" beforeDir="false" afterPath="$PROJECT_DIR$/../../POC_ReactJS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../f1" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-780130934">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/shop/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shop/shop/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="673" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meena 181119.1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meena 181119.1.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meena 181119.1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meena 181119.1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meena 181119.1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meena 181119.1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meena 181119.1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meena 181119.1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meena 181119.1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meena 181119.1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="407613a1-69db-4df0-bd14-abb013539228" name="Default Changelist" comment="" />
+      <created>1542651375312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542651375312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="673" y="0" width="694" height="735" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12195122" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shop/shop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
