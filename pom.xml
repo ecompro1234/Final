@@ -39,18 +39,20 @@
 	</build>
 	
   
-<distributionManagement>
-	<repository>
-		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://192.168.1.157:8081/repository/yoodlex</url>
-	</repository>
- 
-	<snapshotRepository>
-		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://192.168.1.157:8081/repository/maven-snapshots</url>
-	</snapshotRepository>
+stributionManagement>
+        <repository>
+                <id>deploymentRepo</id>
+                <name>Internal Releases</name>
+                <url>http://192.168.1.157:8081/repository/deprelease</url>
+        </repository>
+
+        <snapshotRepository>
+                <id>deploymentRepo</id>
+                <name>Internal Releases</name>
+                <url>http://192.168.1.157:8081/repository/snapshot</url>
+        </snapshotRepository>
+</distributionManagement>
 
 </distributionManagement>
+
 </project>
