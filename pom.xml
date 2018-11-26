@@ -39,7 +39,7 @@
 	</build>
 	
   
-stributionManagement>
+<distributionManagement>
         <repository>
                 <id>deployment</id>
                 <name>Internal Releases</name>
