@@ -41,15 +41,15 @@
   
 stributionManagement>
         <repository>
-                <id>deploymentRepo</id>
+                <id>deployment</id>
                 <name>Internal Releases</name>
-                <url>http://192.168.1.157:8081/repository/deprelease</url>
+                <url>http://192.168.1.159:8081/nexus/content/repositories/ecommerce/</url>
         </repository>
 
         <snapshotRepository>
-                <id>deploymentRepo</id>
+                <id>deployment</id>
                 <name>Internal Releases</name>
-                <url>http://192.168.1.157:8081/repository/snapshot</url>
+                <url>http://192.168.1.159:8081/nexus/content/repositories/ecomm-snap/</url>
         </snapshotRepository>
 </distributionManagement>
 
