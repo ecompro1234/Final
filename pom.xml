@@ -43,12 +43,12 @@
         <repository>
                 <id>deployment</id>
                 <name>Internal Releases</name>
-                <url>https://10.121.205.108:8081/nexus/content/repositories/ecommerce/</url>
+                <url>http://10.121.205.108:8081/nexus/content/repositories/ecommerce/</url>
         </repository>
         <snapshotRepository>
                 <id>deployment</id>
                 <name>Internal Releases</name>
-                <url>https://10.121.205.108:8081/nexus/content/repositories/ecomm-snap/</url>
+                <url>http://10.121.205.108:8081/nexus/content/repositories/ecomm-snap/</url>
         </snapshotRepository>
 </distributionManagement>
 
